@@ -1,0 +1,8 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+D1,LED_WHITE,LED_0603_1608Metric,31.9125,-57.95,0.0,bottom
+D2,LED_WHITE,LED_0603_1608Metric,31.9125,-66.7,0.0,bottom
+D3,LED_WHITE,LED_0603_1608Metric,31.9125,-75.45,0.0,bottom
+D4,LED_WHITE,LED_0603_1608Metric,31.9125,-84.2,0.0,bottom
+D5,LED_WHITE,LED_0603_1608Metric,31.9125,-92.95,0.0,bottom
+D6,LED_WHITE,LED_0603_1608Metric,31.9125,-101.7,0.0,bottom
+J1,female 02x20,PinSocket_2x20_P2.54mm_Vertical_SMD,25.0,-82.81,0.0,bottom
